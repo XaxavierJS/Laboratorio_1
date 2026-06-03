@@ -1,4 +1,8 @@
 # Laboratorio Robotica
+Integrantes:
+- Vicente Palma
+- Javier Retamal
+- Lucas Pinto
 
 ## Descripcion del laboratorio
 Este laboratorio implementa un controlador en Webots para un robot diferencial tipo e-puck, con el objetivo de comparar trayectorias ideales y trayectorias perturbadas por ruido en actuadores.
